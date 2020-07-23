@@ -2,7 +2,7 @@ tile.furnaceoverhaul.iron_furnace.name=Železná pec
 tile.furnaceoverhaul.gold_furnace.name=Zlatá pec
 tile.furnaceoverhaul.diamond_furnace.name=Diamantová pec
 tile.furnaceoverhaul.emerald_furnace.name=Emeraldová pec
-tile.furnaceoverhaul.end_furnace.name=Endest pec
+tile.furnaceoverhaul.end_furnace.name=Endová pec
 tile.furnaceoverhaul.zenith_furnace.name=Zenitová pec
 
 tile.furnaceoverhaul.iron_smelter.name=Železná huť
@@ -19,7 +19,7 @@ item.furnaceoverhaul.iron_kit.name=Železný kit
 item.furnaceoverhaul.gold_kit.name=Zlatý kit
 item.furnaceoverhaul.diamond_kit.name=Diamantový kit
 item.furnaceoverhaul.emerald_kit.name=Emeraldový kit
-item.furnaceoverhaul.end_kit.name=Endest kit
+item.furnaceoverhaul.end_kit.name=Endový kit
 item.furnaceoverhaul.zenith_kit.name=Zenitový kit
 item.furnaceoverhaul.blank_kit.name=Prázdný kit
 
