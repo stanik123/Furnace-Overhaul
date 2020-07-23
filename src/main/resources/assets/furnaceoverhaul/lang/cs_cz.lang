@@ -1,0 +1,39 @@
+tile.furnaceoverhaul.iron_furnace.name=Železná pec
+tile.furnaceoverhaul.gold_furnace.name=Zlatá pec
+tile.furnaceoverhaul.diamond_furnace.name=Diamantová pec
+tile.furnaceoverhaul.emerald_furnace.name=Emeraldová pec
+tile.furnaceoverhaul.end_furnace.name=Endest pec
+tile.furnaceoverhaul.zenith_furnace.name=Zenitová pec
+
+tile.furnaceoverhaul.iron_smelter.name=Železná huť
+
+item.furnaceoverhaul.ore_processing_upgrade.name=Vylepšení zpracování rud
+item.furnaceoverhaul.liquid_fuel_upgrade.name=Vylepšení pro kapalné palivo
+item.furnaceoverhaul.efficiency_upgrade.name=Vylepšení účinnosti
+item.furnaceoverhaul.electric_fuel_upgrade.name=Vylepšení pro elektrické palivo
+item.furnaceoverhaul.blank_upgrade.name=Prázdné vylepšení
+item.furnaceoverhaul.speed_upgrade.name=Vylepšení rychlosti
+item.furnaceoverhaul.processing_upgrade.name=Vylepšení zpracování
+
+item.furnaceoverhaul.iron_kit.name=Železný kit
+item.furnaceoverhaul.gold_kit.name=Zlatý kit
+item.furnaceoverhaul.diamond_kit.name=Diamantový kit
+item.furnaceoverhaul.emerald_kit.name=Emeraldový kit
+item.furnaceoverhaul.end_kit.name=Endest kit
+item.furnaceoverhaul.zenith_kit.name=Zenitový kit
+item.furnaceoverhaul.blank_kit.name=Prázdný kit
+
+itemGroup.furnaceoverhaul=Furnace Overhaul
+
+info.furnaceoverhaul.cooktime=Doba vaření: %s
+info.furnaceoverhaul.efficiency=Zdvojnásobení palivové účinnosti.
+info.furnaceoverhaul.wip=Probíhá práce.
+info.furnaceoverhaul.electric=Používá FE místo pevného paliva.
+info.furnaceoverhaul.speed=Zvyšuje rychlost vaření.
+info.furnaceoverhaul.ores=Umožňuje zpracování rud.
+info.furnaceoverhaul.processing=Dvojitý výstup.
+info.furnaceoverhaul.kit=Vylepší %s na %s
+info.furnaceoverhaul.fluid=Používá kapalné palivo místo pevného paliva.
+
+gui.furnaceoverhaul.fluid=%s / 4000 %s
+gui.furnaceoverhaul.energy=%s / 80000 FE
